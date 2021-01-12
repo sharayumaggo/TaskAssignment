@@ -1,0 +1,7 @@
+C:\Users\varun\source\repos\PokerHand\obj\Debug\PokerHand.csprojAssemblyReference.cache
+C:\Users\varun\source\repos\PokerHand\obj\Debug\PokerHand.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\PokerHand\bin\Debug\PokerHand.exe.config
+C:\Users\varun\source\repos\PokerHand\bin\Debug\PokerHand.exe
+C:\Users\varun\source\repos\PokerHand\bin\Debug\PokerHand.pdb
+C:\Users\varun\source\repos\PokerHand\obj\Debug\PokerHand.exe
+C:\Users\varun\source\repos\PokerHand\obj\Debug\PokerHand.pdb
